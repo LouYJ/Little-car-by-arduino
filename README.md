@@ -18,10 +18,3 @@ If the route crosses buildings, the start point means the point's id in the firs
 We use the Festival library for our voice message. After having setting up the route, you can enjoy our navigation system by following the voice instructure !
 
 Wish you have a good journey with our selected music.
-
-
-
-
-Best regards,
-
-Team 3 
